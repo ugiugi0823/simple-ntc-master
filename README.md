@@ -171,7 +171,7 @@ CNNClassifier(
 |-|-|
 |email|acerghjk@gmail.com|
 |github|https://github.com/ugiugi0823/|
-|resume|https://subsequent-napkin-f74.notion.site/Make-everyone-s-life-more-fun-via-AI-d6a1722a5aee470a95b82cc84c86c998|
+|resume|https://bit.ly/jhw_resume|
 
 ## Reference
 
