@@ -13,10 +13,6 @@ In addition, this repo is for [lecture](https://www.fastcampus.co.kr/data_camp_n
 - [torch-optimizer 0.0.1a15](https://pypi.org/project/torch-optimizer/)
 - Tokenized corpus (e.g. [Moses](https://www.nltk.org/_modules/nltk/tokenize/moses.html), Mecab, [Jieba](https://github.com/fxsjy/jieba))
 
-if you want to use BERT finetuning, you may also need,
-
-- Huggingface
-
 ## Usage
 
 ### Preparation
@@ -163,7 +159,7 @@ CNNClassifier(
 |Bi-LSTM|0.9035|
 |CNN|0.9090|
 |Bi-LSTM + CNN|0.9142|
-|KcBERT|0.9598|
+
 
 ## Author
 
@@ -176,5 +172,5 @@ CNNClassifier(
 ## Reference
 
 - Kim, Convolutional neural networks for sentence classification, EMNLP, 2014
-- Devlin et al., BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, ACL, 2019
-- [Lee, KcBERT: Korean comments BERT, GitHub, 2020](https://github.com/Beomi/KcBERT)
+
+
