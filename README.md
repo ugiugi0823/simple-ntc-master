@@ -169,8 +169,8 @@ CNNClassifier(
 
 |Name|Kim, Ki Hyun|
 |-|-|
-|email|pointzz.ki@gmail.com|
-|github|https://github.com/kh-kim/|
+|email|acerghjk@gmail.com|
+|github|https://github.com/ugiugi0823/|
 |linkedin|https://www.linkedin.com/in/ki-hyun-kim/|
 
 ## Reference
